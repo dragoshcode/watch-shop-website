@@ -6,6 +6,6 @@
 * Semantic markup
 * Responsive design
 
-### Live: 
+### Live: https://watch-shop-dragosh.netlify.app
 
 ![photo](/assets/design/preview.png)
