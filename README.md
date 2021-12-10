@@ -1,4 +1,4 @@
-# E-commerce Watch Shop website built with HTML & SCSS (no JS yet)
+## E-commerce Watch Shop website built with HTML & SCSS (no JS yet)
 
 ### For building this website I've used 
 * Mobile-first workflow
